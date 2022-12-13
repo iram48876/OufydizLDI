@@ -22,19 +22,6 @@ To resolve these challenges, we decided to create a basic data layer for marketi
 - provide API to access and manage data
 - give fundamental technologies for building martech products (e.g., NFT recommendation and personalization system, matching web2 and web3 user data, zero, 1st, 2nd & 3rd party data system, knowledge and social graph, and others)
 
-#### Why we do
-- Our team has 10+ years of experience in digital marketing, data science, development, and data engineering.
-- We are highly confident that on-chain data has a significant role in scaling web3 products and the ecosystem as a whole.
-- So we see our mission as **make web3 martech great by the next bull run**
-
-### Project Details
-
-We will deliver easy to use API, which allows functional integration in different products (ex., Mintbase UI, Telegram Bot, and others) 
-- API specification: https://www.notion.so/metronomo/Projects-with-potential-power-users-7982033da4424787993fed3001a7f54a
-- MVP: Telegram bot: [@metronomo_bot](https://t.me/metronomo_bot)
-- Technology stack to be used: Google Cloud Functions, Google Cloud Storage, Python
-
-### Ecosystem Fit
 #### Where and how does your project fit into the ecosystem?
 We see Metronomo as the user growth module of Mintbase now and part of marketplace contract 2.0 in the next iteration.
 
